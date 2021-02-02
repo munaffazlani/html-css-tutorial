@@ -1,7 +1,9 @@
 .cat {
   background-color: red;
 }
-
+#para {
+  color: red;
+}
 .dog {
   background-color: violet;
 }
@@ -14,12 +16,15 @@
   background-color: cyan;
 }
 
-.smallpara{
-    background-color: gray;
+.smallpara {
+  background-color: gray;
 }
 
 h1 {
   color: white;
 }
 
+body {
+  background-color: cyan;
+}
 

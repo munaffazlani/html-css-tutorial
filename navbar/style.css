@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+h2,
+p {
+  display: inline-block;
+}
+
+h2 {
+  width: 40%;
+  padding-left: 20px;
+  letter-spacing: 1.2px;
+}
+.nav-link {
+  display: inline-block;
+  width: 58%;
+}
+
+p {
+  width: 18%;
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+}
+
+header {
+  background-color: #2e3b61;
+  color: white;
+}
+
+#stickit {
+  position: sticky;
+  top: 0px;
+}
